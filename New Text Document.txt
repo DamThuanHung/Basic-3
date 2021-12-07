@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html　ｇ＝”jp”>
+    <head>
+        <title>港区</title>
+		<style>
+		//div{background-color:green;}
+		</style>
+    </head>
+    <body>
+        <h1>今さら聞けない！HTMLとは【初心者向け】</h1>
+		<hr>
+		<p>「HTML」とは何なのかを<strong><em>超初心者向け</em>に解説した記事です</strong>。今さら知らないなんて言えない・・という方はお読みください。技術的な表現はなるべく使わないようにしているので、プログラミングやWebデザインの事前知識は不要です。</p>
+		<div>
+		<h2>目次</h2>
+		<p>HTMLとは</p>
+		<p>Webページの裏側を見る</p>
+		<p>Hyper Text Link（ハイパーテキストリンク）</p>
+		<p>HTMLの種類</p>
+		<p>HTMLファイルの作り方</p>
+		<p>リンクを表示する<span style="font-size:20px;font-family:arial;color:red">hohohaha</span></p>
+		<p>画像を表示する</p>
+		<p>段落分けを行う</p>
+		<p>HTMLで覚えておきたいタグ一覧（リスト）</p>
+        <p>Còn đây là một <a href=”http://www.nettruyenpro.com/” >Câu chuyện </a>.</p>
+		</div>
+		<p><img src="hoa anh dao.jpg" alt="Hoa_anh_dao"width="500" height="200"></p>
+		<ul>
+		<li>hoa anh c</li>
+		<li>fdsfs</li>
+		<li>fdsfsdf</li>
+		</ul>
+		<ol>
+		<li>hoa anh c</li>
+		<li>fdsfs</li>
+		<li>fdsfsdf</li>
+		</ol>
+		
+		<blockquote>
+		<p>Hyper Text Link（ハイパーテキストリンク）</p>
+		<p>HTMLの種類</p>
+		<p>HTMLファイルの作り方</p>
+		<p>リンクを表示する</p>
+		<p>画像を表示する</p>
+		<p>段落分けを行う</p>
+		</blockquote>
+		<dl>
+<dt>Trái cây:</dt>
+<dd>giúp bỗ sung vitamin cho cơ thể.</dd>
+
+<dt>Nước:</dt>
+<dd>giúp chúng ta tăng cường lượng nước cần cho cơ thể.</dd>
+
+<dt>Thịt:</dt>
+<dd>giúp cơ thể tăng cường đạm, và chất béo.</dd>
+</dl>
+
+    </body>
+</html>
+
